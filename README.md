@@ -3,7 +3,8 @@
 This Python project automates the creation of a folder hierarchy based on the Year > Month > Week structure. It's designed to streamline organization and management of files by automatically generating folders for each week within a specified year and month. Perfect for maintaining structured records, managing projects, or organizing files for time-based workflows.
 
 OS Support: MacOS
-<img width="555" alt="image" src="https://github.com/user-attachments/assets/8a5b10cc-054c-4c5a-b8b0-ef2755b4b90d">
+<img width="638" alt="image" src="https://github.com/user-attachments/assets/d91d0c3f-55d6-4fae-baa4-28312c9b1eb2">
+
 
 
 Technology Used:
