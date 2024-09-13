@@ -1,0 +1,3 @@
+([('AutoFolderize',
+   '/Users/apple/Documents/Innovations/AutoFolderize/dist/AutoFolderize',
+   'EXECUTABLE')],)
